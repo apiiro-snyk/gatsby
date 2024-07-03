@@ -54,7 +54,7 @@
     "bluebird": "^3.7.2",
     "body-parser": "1.20.1",
     "browserslist": "^4.21.9",
-    "cache-manager": "^2.11.1",
+    "cache-manager": "^5.0.0",
     "chalk": "^4.1.2",
     "chokidar": "^3.5.3",
     "common-tags": "^1.8.2",
