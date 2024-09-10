@@ -7,7 +7,7 @@
   "dependencies": {
     "@mdx-js/react": "^2.3.0",
     "@nivo/core": "^0.80.0",
-    "@nivo/line": "^0.80.0",
+    "@nivo/line": "^0.81.0",
     "@sindresorhus/slugify": "^2.2.0",
     "gatsby": "next",
     "gatsby-plugin-mdx": "next",
